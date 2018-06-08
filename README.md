@@ -1,2 +1,1 @@
-Am I doing this right?
-Possibly but still not sure. 
+Will this delete other message
